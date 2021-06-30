@@ -1,5 +1,5 @@
 # FightFinder
-Bot for eve that pings you when there is a killmail near you
+Bot for eve that pings when there is a killmail near you
 
 Goals:
 
